@@ -1,4 +1,16 @@
-## Welcome to Sydney's GitHub Pages
+## Sydney Chan's First CS193 Homework
+
+```markdown
+# All my favoirte things about CS193
+
+- I'm learning how to actually use GitHub!
+- It's really only one time a week!
+- I can actually apply this knowledge to help me with actual CS HW later down the road
+- GitHub is goofy
+
+```
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
