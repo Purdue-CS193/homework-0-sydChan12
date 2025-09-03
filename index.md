@@ -1,8 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Sydney's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+I kinda like all the comments and helpful links they got goin' on here so I might just leave most things, but here's just a little Sydney section.
+
+```markdown
+# Sydney's List of Alternatives forms of Life
+## In order of preference
+
+1. A bear
+2. A cloud
+3. A coconut
+4. A mango
+
+```
 
 ### Markdown
 
